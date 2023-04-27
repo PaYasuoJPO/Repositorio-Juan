@@ -1,2 +1,1 @@
-# Repositorio-Juan
-Mi primer Repositorio GitHup
+Este proyecto es una pueba 
